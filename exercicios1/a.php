@@ -5,8 +5,7 @@
     echo "Insira um divisor: ";
     $b = readline();
     
-    if($a / $b){
-        $res = $a / $b;
+    if($res = $a / $b){
         echo "O Valor da divisão é: $res\n";
         echo "O resto é: ". $a % $b;
     }
