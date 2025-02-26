@@ -41,7 +41,7 @@
                     break;
                 case 11:
                     print_r ($mes[10]);
-                    break;
+                    break;  
                 case 12:
                     print_r ($mes[11]);
                     break;
